@@ -1,0 +1,5 @@
+# Requirements for Free Music Downloader
+# Run: pip3 install -r requirements.txt --break-system-packages
+
+free-bandcamp-downloader>=0.5.0
+yt-dlp>=2024.0.0
